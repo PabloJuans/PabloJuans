@@ -5,6 +5,9 @@
 - 🌱 estou estudando o basico de programação em meu colégio
 - 💞️ busco me formar e procurar um emprego
 - 📫 meu sonho é abir um pequeno negócio
+
+
+
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
